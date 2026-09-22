@@ -8,5 +8,4 @@
 
 Что удобнее в терминале
 
-1. Squash and merge локально— `git rebase -i HEAD~5` в терминале быстрее и гибче, чем через UI.
-EOF
+1. Squash and merge локально— `git rebase -i HEAD~5` в терминале быстрее и гибче, чем через Ui.
